@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Calling Arguments</key>
+	<string>89bcef8ba511f09a007bd937873a800fa6c3c4f1d0340c19d06d48c197db83d8</string>
+	<key>Input</key>
+	<array>
+		<dict>
+			<key>Argument</key>
+			<string>green</string>
+			<key>Comment</key>
+			<string></string>
+			<key>Display</key>
+			<string></string>
+			<key>Structure</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>point</string>
+					<key>Type</key>
+					<string>Point2D</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>KO</string>
+					<key>Type</key>
+					<string>Number</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>WT</string>
+					<key>Type</key>
+					<string>Number</string>
+				</dict>
+			</array>
+			<key>Type</key>
+			<string>Table</string>
+		</dict>
+		<dict>
+			<key>Argument</key>
+			<string>red</string>
+			<key>Comment</key>
+			<string></string>
+			<key>Display</key>
+			<string></string>
+			<key>Structure</key>
+			<array>
+				<dict>
+					<key>Name</key>
+					<string>point</string>
+					<key>Type</key>
+					<string>Point2D</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>KO</string>
+					<key>Type</key>
+					<string>Number</string>
+				</dict>
+				<dict>
+					<key>Name</key>
+					<string>WT</string>
+					<key>Type</key>
+					<string>Number</string>
+				</dict>
+			</array>
+			<key>Type</key>
+			<string>Table</string>
+		</dict>
+		<dict>
+			<key>Argument</key>
+			<string>step</string>
+			<key>Comment</key>
+			<string>Step size for the mesh</string>
+			<key>Default</key>
+			<string>10</string>
+			<key>Display</key>
+			<string></string>
+			<key>Interval</key>
+			<string></string>
+			<key>Round</key>
+			<false/>
+			<key>Type</key>
+			<string>Number</string>
+		</dict>
+	</array>
+	<key>Name of Function</key>
+	<string>Computation</string>
+	<key>Name of Group</key>
+	<string>MyGroup</string>
+	<key>Name of Module</key>
+	<string>Command Line Utility</string>
+	<key>Name of Output</key>
+	<string>output</string>
+	<key>Name of Project</key>
+	<string>green_and_red</string>
+	<key>Table Information</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>center</string>
+			<key>Type</key>
+			<string>Point2D</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>green_count</string>
+			<key>Type</key>
+			<string>Number</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>green_count_expected</string>
+			<key>Type</key>
+			<string>Number</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>red_count</string>
+			<key>Type</key>
+			<string>Number</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>red_count_expected</string>
+			<key>Type</key>
+			<string>Number</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>probability</string>
+			<key>Type</key>
+			<string>Number</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>probability_expected</string>
+			<key>Type</key>
+			<string>Number</string>
+		</dict>
+	</array>
+	<key>Variable Type</key>
+	<string>Table</string>
+</dict>
+</plist>
