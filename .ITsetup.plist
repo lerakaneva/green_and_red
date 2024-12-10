@@ -111,31 +111,13 @@
 		</dict>
 		<dict>
 			<key>Name</key>
-			<string>green_count_expected</string>
-			<key>Type</key>
-			<string>Number</string>
-		</dict>
-		<dict>
-			<key>Name</key>
 			<string>red_count</string>
 			<key>Type</key>
 			<string>Number</string>
 		</dict>
 		<dict>
 			<key>Name</key>
-			<string>red_count_expected</string>
-			<key>Type</key>
-			<string>Number</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>probability</string>
-			<key>Type</key>
-			<string>Number</string>
-		</dict>
-		<dict>
-			<key>Name</key>
-			<string>probability_expected</string>
+			<string>pvals</string>
 			<key>Type</key>
 			<string>Number</string>
 		</dict>
